@@ -16,3 +16,4 @@ This branch contains the Level-2 implementation of the CIFAR-10 image classifica
 - terafac.ipynb
 
 Trained and evaluated using Kaggle GPU.
+ 
